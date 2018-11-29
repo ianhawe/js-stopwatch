@@ -1,0 +1,9 @@
+#toFlex{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    padding-top:10%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
